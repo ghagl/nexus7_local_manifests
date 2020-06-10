@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
- <project path="device/asus/grouper" name="android_device_asus_grouper-8.1" remote="surblazer" revision="lineageos-15.1" groups="device,grouper" />
+ <project path="device/asus/grouper" name="android_device_asus_grouper-8.1" remote="surblazer" revision="lineage-15.1" groups="device,grouper" />
  <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="ads" revision="ads-7.1.0" />
 
  <remove-project name="LineageOS/android_external_libnfc-nxp" />
